@@ -4,7 +4,7 @@
 
 * 🎓 Estudante de Ciências da Computação na UNESP - Rio Claro.
 * 💻 Interessada em tecnologia e desenvolvimento.
-* 🚀 Em busca de uma oportunidades área de Tecnologia.
+* 🚀 Em busca de oportunidades área de Tecnologia.
 * 🌱 Sempre buscando aprender e desenvolver novas habilidades.
 
 ## Minhas Skills
