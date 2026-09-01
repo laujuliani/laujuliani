@@ -3,7 +3,7 @@
 ## Sobre mim
 
 * 🎓 Estudante de Ciências da Computação na UNESP - Rio Claro.
-* 💻 Interessada em tecnologia e desenvolvimento de software.
+* 💻 Interessada em tecnologia e desenvolvimento.
 * 🚀 Em busca de uma oportunidade de estágio na área de Tecnologia.
 * 🌱 Sempre buscando aprender e desenvolver novas habilidades.
 
