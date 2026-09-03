@@ -11,11 +11,11 @@
 
 **Linguagens e Banco de Dados**
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql" /> </p>
 
 **Ferramentas**
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,notion" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,figma,wordpress,notion" /> </p>
 
 <br/>
 
